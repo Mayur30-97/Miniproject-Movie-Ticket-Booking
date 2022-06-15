@@ -59,7 +59,8 @@ public class AdvertiseService {
 	
 	public Advertise getAdvertiseByText(String text)
 	{
-		return this.dao.getAdvertiseByText(text);
+		//return this.dao.getAdvertiseByText(text);
+		return null;
 	}
 
 }
